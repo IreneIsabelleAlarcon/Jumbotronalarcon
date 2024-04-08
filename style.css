@@ -1,0 +1,26 @@
+.rounded {
+    background-color: rgba(255, 192, 203, 0.712);
+    text-align: center; 
+}
+
+.rounded img {
+    width: 200px; 
+    height: auto; 
+    margin: 5px; 
+}
+body {
+    text-align: center;
+    background-image: url(background.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+   background-attachment: fixed; 
+}
+h1{
+    color: #443d3d; 
+    padding: 10px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    margin: 1%;
+    background-color:  rgba(255, 192, 203, 0.712);
+}
